@@ -1,0 +1,12 @@
+# 内容：Emby hk
+# 域名关键字匹配
+;DOMAIN-KEYWORD,
+# 域名后缀匹配
+DOMAIN-SUFFIX,vfing.de #起点
+DOMAIN-SUFFIX,poloemby.xyz #Polo
+DOMAIN-SUFFIX,bangumi.ca #Nya
+DOMAIN-SUFFIX,auroramedia.vip #极光
+DOMAIN-SUFFIX,jingzhe.pro #惊蛰
+DOMAIN-SUFFIX,itsmyduty.top #拉拉
+DOMAIN,www.259772.xyz #CoCo
+DOMAIN-SUFFIX,1024.name #西瓜
