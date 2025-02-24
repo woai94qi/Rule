@@ -1,4 +1,5 @@
 # 内容：Emby us
+DOMAIN,embyplus.org
 # 域名关键字匹配
 DOMAIN-KEYWORD,nebula
 # 域名后缀匹配
@@ -8,4 +9,3 @@ DOMAIN-SUFFIX,saturday.video
 DOMAIN-SUFFIX,cn2gias.uk
 DOMAIN-SUFFIX,doven.tv
 DOMAIN-SUFFIX,emby.my
-DOMAIN,embyplus.org
