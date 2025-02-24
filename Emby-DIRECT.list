@@ -1,7 +1,8 @@
 # 内容：Emby
 # 域名关键字匹配
-DOMAIN-KEYWORD,temby
-DOMAIN-KEYWORD,july
+DOMAIN-KEYWORD,temby # Temby
+DOMAIN-KEYWORD,july # July
 # 域名后缀匹配
-DOMAIN-SUFFIX,liustar.click
-DOMAIN-SUFFIX,567996.xyz
+DOMAIN-SUFFIX,liustar.click # 流星
+DOMAIN-SUFFIX,wmxz.567996.xyz # 鹅服
+DOMAIN-SUFFIX,asubaka.top # Ask
