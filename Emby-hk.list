@@ -1,4 +1,5 @@
 # 内容：Emby hk
+DOMAIN,www.259772.xyz
 # 域名关键字匹配
 ;DOMAIN-KEYWORD,
 # 域名后缀匹配
@@ -8,5 +9,4 @@ DOMAIN-SUFFIX,bangumi.ca
 DOMAIN-SUFFIX,auroramedia.vip
 DOMAIN-SUFFIX,jingzhe.pro
 DOMAIN-SUFFIX,itsmyduty.top
-DOMAIN,www.259772.xyz
 DOMAIN-SUFFIX,1024.name
