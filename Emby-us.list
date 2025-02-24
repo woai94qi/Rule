@@ -1,0 +1,11 @@
+# 内容：Emby us
+# 域名关键字匹配
+DOMAIN-KEYWORD,nebula # 星云
+# 域名后缀匹配
+DOMAIN-SUFFIX,nanflix.net # 南飞
+DOMAIN-SUFFIX,mobaiemby.site # 墨云阁
+DOMAIN-SUFFIX,saturday.video # SDL
+DOMAIN-SUFFIX,cn2gias.uk # 守候
+DOMAIN-SUFFIX,doven.tv # 鸽巢
+DOMAIN-SUFFIX,emby.my # 月饼
+DOMAIN,embyplus.org # 纸片人
