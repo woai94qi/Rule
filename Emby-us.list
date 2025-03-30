@@ -1,11 +1,29 @@
 # 内容：Emby us
-DOMAIN,embyplus.org
+45.142.176.135（ip）
+43.143.248.18（ip）
 # 域名关键字匹配
-DOMAIN-KEYWORD,nebula
+DOMAIN-KEYWORD,1024
 # 域名后缀匹配
-DOMAIN-SUFFIX,nanflix.net
-DOMAIN-SUFFIX,mobaiemby.site
-DOMAIN-SUFFIX,saturday.video
-DOMAIN-SUFFIX,cn2gias.uk
-DOMAIN-SUFFIX,doven.tv
+DOMAIN-SUFFIX,cloudaria.net
+DOMAIN-SUFFIX,embyplus.org
 DOMAIN-SUFFIX,emby.my
+DOMAIN-SUFFIX,saturday.video
+DOMAIN-SUFFIX,lilyemby.my
+DOMAIN-SUFFIX,nanflix.net
+DOMAIN-SUFFIX,emine3m.com
+DOMAIN-SUFFIX,mobaiemby.site
+DOMAIN-SUFFIX,lemby.me
+DOMAIN-SUFFIX,younoyes.com
+DOMAIN-SUFFIX,yezi.my
+DOMAIN-SUFFIX,eu.org
+DOMAIN-SUFFIX,vfing.de
+DOMAIN-SUFFIX,567996.xyz
+DOMAIN-SUFFIX,vfing.de
+DOMAIN-SUFFIX,poloemby.xyz
+DOMAIN-SUFFIX,bangumi.ca
+DOMAIN-SUFFIX,auroramedia.vip
+DOMAIN-SUFFIX,jingzhe.pro
+DOMAIN-SUFFIX,itsmyduty.top
+DOMAIN-SUFFIX,259772.xyz
+DOMAIN-SUFFIX,j8.work
+DOMAIN-SUFFIX,nebula-media.org
