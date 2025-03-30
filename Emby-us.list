@@ -1,6 +1,6 @@
 # 内容：Emby us
-45.142.176.135（ip）
-43.143.248.18（ip）
+IP-CIDR,45.142.176.135/32,no-resolve
+IP-CIDR,43.143.248.18/32,no-resolve
 # 域名关键字匹配
 DOMAIN-KEYWORD,1024
 # 域名后缀匹配
