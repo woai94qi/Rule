@@ -1,6 +1,23 @@
 # Telegram
 #PROCESS-NAME,Telegram.exe
 #PROCESS-NAME,org.telegram.messenger
+
+DOMAIN-SUFFIX,285286.xyz
+DOMAIN-SUFFIX,embymv.link
+DOMAIN-SUFFIX,yezi.my
+DOMAIN-SUFFIX,saturdayvideo.top
+DOMAIN-SUFFIX,itsmyduty.top
+DOMAIN-SUFFIX,vfing.de
+DOMAIN-SUFFIX,mobaiemby.site
+DOMAIN-SUFFIX,rjf37.com
+DOMAIN-SUFFIX,younoyes.com
+DOMAIN-SUFFIX,lemby.me
+DOMAIN-SUFFIX,jingzhe.pro
+DOMAIN-SUFFIX,feiniu.lol
+DOMAIN-SUFFIX,frre.me
+DOMAIN-SUFFIX,nijigem.by
+
+
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-SUFFIX,telegra.ph
