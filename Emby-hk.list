@@ -2,8 +2,8 @@
 #PROCESS-NAME,Telegram.exe
 #PROCESS-NAME,org.telegram.messenger
 
-DOMAIN,69yun69.com
 DOMAIN,emby.wenjian.de
+DOMAIN-SUFFIX,69yun69.com
 DOMAIN-SUFFIX,285286.xyz
 DOMAIN-SUFFIX,embymv.link
 DOMAIN-SUFFIX,yezi.my
