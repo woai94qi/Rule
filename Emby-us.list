@@ -6,6 +6,7 @@ IP-CIDR,45.142.176.135/32,no-resolve
 # 域名后缀匹配
 DOMAIN,emby.785858.xyz
 DOMAIN,www.259772.xyz
+DOMAIN-SUFFIX,mobaiemby.site
 DOMAIN-SUFFIX,nanflix.net
 DOMAIN-SUFFIX,biliblili.uk
 DOMAIN-SUFFIX,chilledmelon.com
