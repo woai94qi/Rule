@@ -1,26 +1,49 @@
 # 内容：Emby us
-IP-CIDR,45.142.176.135/32,no-resolve
+
 
 # 域名关键字匹配
 
 # 域名后缀匹配
+#july
+IP-CIDR,45.142.176.135/32,no-resolve
+#洛北
 DOMAIN,emby.785858.xyz
+#CoCo
 DOMAIN,www.259772.xyz
-DOMAIN-SUFFIX,mobaiemby.site
-DOMAIN-SUFFIX,vban.xyz
+#南飞
 DOMAIN-SUFFIX,nanflix.net
+#墨云阁
+DOMAIN-SUFFIX,mobaiemby.site
+#结束
 DOMAIN-SUFFIX,biliblili.uk
+#西瓜
 DOMAIN-SUFFIX,chilledmelon.com
-DOMAIN-SUFFIX,lilyemby.my
-DOMAIN-SUFFIX,aliz.work
-DOMAIN-SUFFIX,123456789.lol
-DOMAIN-SUFFIX,711.lol
+#喵了个咪
+DOMAIN-SUFFIX,meowfly.de
+#临境
+DOMAIN-SUFFIX,liminalnet.com
+#MSKY
+DOMAIN-SUFFIX,5msky.com
+#比比
 DOMAIN-SUFFIX,beebi.org
+#lily
+DOMAIN-SUFFIX,lilyemby.my
+#Ask
+DOMAIN-SUFFIX,711.lol
+#HKA
+DOMAIN-SUFFIX,aliz.work
+#影迹
+DOMAIN-SUFFIX,123456789.lol
+#起点
 DOMAIN-SUFFIX,28.al
 DOMAIN-SUFFIX,b-cdn.net
+#Plumber
 DOMAIN-SUFFIX,nezhasu.com
+#星云
 DOMAIN-SUFFIX,nebula-media.org
+#Nya
 DOMAIN-SUFFIX,bangumi.ca
+
 
 # 内容：国外媒体列表
 # 更新：2025-03-29 17:35:36
