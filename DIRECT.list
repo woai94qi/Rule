@@ -2,6 +2,8 @@
 # 域名关键字匹配
 
 # 域名后缀匹配
+#Ask
+DOMAIN,download-defalut.123pan.cn
 #Paolu
 DOMAIN,bigfly.paoluma.de
 #墨云阁
@@ -16,7 +18,7 @@ DOMAIN,bai2.yezi.my
 #Lemby
 DOMAIN,us.lemby.me
 #片刻
-DOMAIN,okbap.com
+DOMAIN,pieclip.okbap.com
 #月饼
 DOMAIN-SUFFIX,mobai.sbs
 #喵了个咪
