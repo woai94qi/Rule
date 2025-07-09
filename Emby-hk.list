@@ -9,6 +9,10 @@ DOMAIN,zoxfree.3767483.xyz
 DOMAIN,emby.wenjian.de
 #69
 DOMAIN,qqpyf.top
+#Zn
+DOMAIN,emby.zn.al
+#二次元
+DOMAIN,media.nijigem.by
 #蘑菇公费
 DOMAIN-SUFFIX,vban.xyz
 #DPX
@@ -31,8 +35,6 @@ DOMAIN-SUFFIX,itsmyduty.top
 DOMAIN-SUFFIX,violet.run
 #入境入机
 DOMAIN-SUFFIX,rjf37.com
-#Zn
-host-suffix,zn.al
 #Youno
 DOMAIN-SUFFIX,younoyes.com
 #Onyra
@@ -61,8 +63,6 @@ DOMAIN-SUFFIX,cloudaria.one
 DOMAIN-SUFFIX,staryuki.com
 #猫眼
 DOMAIN-SUFFIX,frre.me
-#二次元
-DOMAIN-SUFFIX,nijigem.by
 #琴鸟
 DOMAIN-SUFFIX,lyrebirdemby.com
 
