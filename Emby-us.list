@@ -3,10 +3,7 @@
 
 # 域名关键字匹配
 
-# 域名后缀匹配
-#july
-IP-CIDR,45.142.176.135/32,no-resolve
-#洛北
+# 域名后缀匹配#洛北
 DOMAIN,emby.785858.xyz
 #CoCo
 DOMAIN,www.259772.xyz
@@ -16,6 +13,8 @@ DOMAIN-SUFFIX,nanflix.net
 DOMAIN-SUFFIX,mobaiemby.site
 #结束
 DOMAIN-SUFFIX,biliblili.uk
+#july
+DOMAIN-SUFFIX,eu.org
 #西瓜
 DOMAIN-SUFFIX,chilledmelon.com
 #临境
