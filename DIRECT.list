@@ -2,6 +2,8 @@
 # 域名关键字匹配
 
 # 域名后缀匹配
+#紫罗兰
+IP-CIDR,46.3.109.178/32,no-resolve
 #Ask
 DOMAIN,download-defalut.123pan.cn
 #Paolu
