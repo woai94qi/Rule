@@ -8,6 +8,12 @@
 DOMAIN,emby.785858.xyz
 #CoCo
 DOMAIN,www.259772.xyz
+#Doubon
+DOMAIN,onatoshi.114514.quest
+#Hohai
+DOMAIN,emby.hohai.eu.org
+#非越
+DOMAIN-SUFFIX,sfcj.org
 #南飞
 DOMAIN-SUFFIX,nanflix.net
 #墨云阁
@@ -32,8 +38,6 @@ DOMAIN-SUFFIX,711.lol
 DOMAIN-SUFFIX,v50.su
 #HKA
 DOMAIN-SUFFIX,aliz.work
-#影迹
-DOMAIN-SUFFIX,123456789.lol
 #起点
 DOMAIN-SUFFIX,28.al
 DOMAIN-SUFFIX,b-cdn.net
